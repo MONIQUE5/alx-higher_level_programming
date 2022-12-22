@@ -1,2 +1,2 @@
-#!/bin/bash
-Python exceptions
+#!/usr/bin/python3
+Python Exceptions
